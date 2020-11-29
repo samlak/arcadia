@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption/>
+  <note/>
+  <place/>
+  <categories>
+    <category value="workers"/>
+    <category value="engineers"/>
+    <category value="refinery-workers"/>
+    <category value="fuel"/>
+    <category value="oil"/>
+    <category value="industry"/>
+    <category value="refinery"/>
+    <category value="oil-refinery"/>
+    <category value="gas-refinery"/>
+    <category value="oil-industry"/>
+    <category value="industrial-plant"/>
+    <category value="gasoline"/>
+    <category value="chemical"/>
+    <category value="petrochemical"/>
+    <category value="factory"/>
+    <category value="pipelines"/>
+    <category value="gas"/>
+    <category value="energy"/>
+    <category value="storage"/>
+    <category value="distillery"/>
+    <category value="toxic"/>
+    <category value="pollution"/>
+    <category value="power"/>
+    <category value="global-warming"/>
+    <category value="steel"/>
+    <category value="metal"/>
+    <category value="pipes"/>
+    <category value="engineering"/>
+    <category value="plant"/>
+    <category value="environment"/>
+    <category value="industrial"/>
+    <category value="construction"/>
+    <category value="fuel-tanks"/>
+  </categories>
+</comment>
